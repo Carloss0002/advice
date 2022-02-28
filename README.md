@@ -39,7 +39,7 @@
 
 ## Criado Por 🤓
 
-<a href="linkedin.com/in/carlos-eduardo-freitas-amorim-13102719b" target="blank">Carlos Eduardo Freitas Amorim :technologist: </a><br>
+<a href="https://www.linkedin.com/in/carlos-eduardo-freitas-amorim-13102719b/" target="blank">Carlos Eduardo Freitas Amorim :technologist: </a><br>
 <a href="https://www.frontendmentor.io/" target="blank">Origem do Desafio "Frontend Mentor" 🚅 </a><br>
 <a href="https://www.frontendmentor.io/profile/Carloss0002" target="blank">Para ver outros desafios do Dev Jr., <small><i>no caso eu 🥰</i></small></a>
 
