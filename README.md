@@ -1,8 +1,8 @@
-# advice 🉐
+<h1>advice 🉐</h1>
 
 ![active-states](https://user-images.githubusercontent.com/93801199/156046024-cbaefcfc-ed93-4daa-a8d2-9a1d2c511099.jpg)
 
-##Desafio Frontend-Mentor 🥇
+<h2>Desafio Frontend-Mentor 🥇</h2>
 
 <p>
   gerador de conselhos utilizando a tecnologia Vue.js 2 e axios para á api do projeto 🗡️
