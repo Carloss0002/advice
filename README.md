@@ -17,7 +17,7 @@
 ###tecnologias utilizadas :desktop_computer:
 
 <ul>
-  <li> Vue.js 2 :green_book:
+  <li> Vue.js 2 :green_book: (https://vuejs.org/)
   <li> Javascript 📚
   <li> Axios 
   <li> html  📙
